@@ -1,7 +1,33 @@
-1.Desing and Developed a matchmaking application using MERN stack that connects people based on their skills and interests.
-2.Implemented secure user authentication system using JWT and password hashing to protect user data and ensure privacy.
-3.Built a real-time chat feature using WEB SOCKET for instant messaging and Ensured message persistance.
-4.The application provides friend request features: users can send request to others user and, recipients can accept or reject based on their interest
-                     
-                        
-                        
+# DevTinder - Full Stack MERN Application
+
+DevTinder is a **matchmaking application for developers** built using the **MERN stack** (MongoDB, Express, React, Node.js). It connects people based on their **skills and interests**, providing a platform to network, collaborate, and chat in real-time.
+
+---
+
+## 🚀 Features
+
+- **Matchmaking System**  
+  Designed and developed a system that connects developers based on their skills and interests.
+
+- **Secure Authentication**  
+  Implemented user authentication using **JWT** and password hashing to ensure privacy and protect user data.
+
+- **Real-Time Chat**  
+  Built a real-time chat feature using **WebSocket**, enabling instant messaging with message persistence.
+
+- **Friend Requests**  
+  Users can send friend requests to other users, and recipients can accept or reject based on their interest.
+
+---
+
+## 💻 Tech Stack
+
+- **Frontend:** React, HTML, CSS, Bootstrap  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Authentication:** JWT, bcrypt  
+- **Real-Time Communication:** WebSocket  
+
+
+git clone https://github.com/Monikmalviya2002/DevTinder-full-stack.git
+
