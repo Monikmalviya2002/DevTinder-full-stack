@@ -29,5 +29,5 @@ DevTinder is a **matchmaking application for developers** built using the **MERN
 - **Real-Time Communication:** WebSocket  
 
 
-git clone https://github.com/Monikmalviya2002/DevTinder-full-stack.git
+
 
